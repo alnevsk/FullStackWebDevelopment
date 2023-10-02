@@ -12,4 +12,5 @@ console.log("The difference of the two numbers is " + toCalculate.subtract(num1,
 console.log("The product of the two numbers is " + toCalculate.multiply(num1, num2));
 
 console.log("The division of the two numbers yields " + toCalculate.divide(num1, num2));
+//push
 
